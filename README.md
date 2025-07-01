@@ -1,7 +1,7 @@
 # Olá! Eu sou Nicholas Nunes ✌️
 
 
-#Technologies and Tools
+# Technologies and Tools
 
 <img src="https://github.com/user-attachments/assets/821d6350-f70a-4c4c-b99b-bc140ee94792" width="45px">
 <img src="https://github.com/user-attachments/assets/bf2107ff-41c7-43b4-8132-1e64bbba2f49" width="45px">
